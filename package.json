@@ -1,0 +1,19 @@
+{
+  "name": "acheezeable",
+  "version": "1.0.0",
+  "description": "A cheesy self-led personal development app to encourage positivity during the achievement of goals. ## MVP: - Single day - Set goals in the morning - Select 4 goals in the morning - User marks when goal is complete - When all goals are checked, a \"Well done\" dialog box appears ### User Stories",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/l3w15/acheezeable.git"
+  },
+  "author": "the cheezers",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/l3w15/acheezeable/issues"
+  },
+  "homepage": "https://github.com/l3w15/acheezeable#readme"
+}
